@@ -1,0 +1,17 @@
+commit b42bce28a0e4c6ee4bcdbd0eb176526e5ae33174
+Author: ChenZhenY <1207261079@qq.com>
+Date:   Wed Feb 2 16:21:02 2022 -0500
+
+    Add intro_to_git file
+
+commit c9f531f176a0f950c0385ebd2553d90007cd4421
+Author: ChenZhenY <1207261079@qq.com>
+Date:   Wed Feb 2 16:15:04 2022 -0500
+
+    Add linux_exercise
+
+commit 75bedb7a922ca04913f5574d8c0b93e2351b9798
+Author: Zhenyang Chen <chen-zhenyang@outlook.com>
+Date:   Wed Feb 2 16:05:10 2022 -0500
+
+    Initial commit
