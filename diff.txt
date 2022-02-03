@@ -1,0 +1,32 @@
+diff --git a/random.txt b/random.txt
+index 2f3eb51..64aafb8 100644
+--- a/random.txt
++++ b/random.txt
+@@ -1,13 +1,17 @@
+-Take this kiss upon the brow!
++O God! can I not grasp
++And I hold within my hand
++Of a surf-tormented shore,
++Them with a tighter clasp?
+ How few! yet how they creep
+-Yet if hope has flown away
+-You are not wrong, who deem
+-Yet if hope has flown away
+-But a dream within a dream?In a night, or in a day,
+-O God! can I not save
+-You are not wrong, who deem
+-Thus much let me avow--
++And, in parting from you now,
++Of a surf-tormented shore,
++
++Take this kiss upon the brow!
+ Through my fingers to the deep,
+-How few! yet how they creep
++In a night, or in a day,
++Is it therefore the less gone?
++Is but a dream within a dream.
++Of a surf-tormented shore,
++Them with a tighter clasp?
+ And, in parting from you now,
+-Grains of the golden sand--
++That my days have been a dream;
